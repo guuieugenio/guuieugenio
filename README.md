@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Eugenio de Sá!
+# 👋 Olá, eu sou o Guilherme Eugenio!
 
 💻 **Desenvolvedor BackEnd** apaixonado por tecnologia e soluções inteligentes.  
 Tenho experiência em diversas linguagens e frameworks, com foco principal em **Java** e **Spring Boot** — tecnologias que mais me inspiram a criar sistemas robustos e escaláveis.
